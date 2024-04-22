@@ -32,7 +32,7 @@ public:
 	bool is_empty() const;
 };
 
-#endif
+
 
 template<typename T>
 inline void Queue<T>::expand()
@@ -153,3 +153,5 @@ inline bool Queue<T>::is_empty() const
 	}
 	return false;
 }
+
+#endif
