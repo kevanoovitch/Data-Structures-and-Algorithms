@@ -1,0 +1,4 @@
+﻿  2. QueueLinkedList.cpp
+C:\GitHub\Part B - Basic Datastructures\Labb B1\2. QueueLinkedList\QueueLinkedList.h(42,1): error C1020: unexpected #endif
+  (compiling source file '2.%20QueueLinkedList.cpp')
+  
