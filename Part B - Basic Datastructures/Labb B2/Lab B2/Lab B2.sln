@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1. IndexedList", "Lab B2\Lab B2.vcxproj", "{37143213-01A7-4291-9951-4925CB6EA495}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1. IndexedList", "1. IndexedList\Lab B2.vcxproj", "{37143213-01A7-4291-9951-4925CB6EA495}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.OrderedList", "..\2.OrderedList\2.OrderedList.vcxproj", "{ABF02002-F95B-49FA-AAD4-D8C7DD5C4740}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.OrderedList", "2.OrderedList\2.OrderedList.vcxproj", "{ABF02002-F95B-49FA-AAD4-D8C7DD5C4740}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
