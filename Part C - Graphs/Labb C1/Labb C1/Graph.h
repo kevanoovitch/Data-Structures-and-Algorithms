@@ -9,12 +9,24 @@
 
 const int INFINIT_COST = INT_MAX;
 
+template<typename T>
+class Edge {
+public:
+	int cost;
+	T next;
+	// Constructor
+	Edge(int cost, T next)
+		:cost(cost), next(next){} // Initialize the data and next pointer
+};
+
+
+
 template <class T>
 class Graph
 {
 private:
 	// for you decide
-	std::map<T, Node*>> adjList; // ex when T=string: Map["A"] = Ptr to first node
+	std::map<T, std::vector<Edge<T>>> adjList; // ex when T=string: Map["A"] = Ptr to first node
 	
 	
 public:
@@ -35,17 +47,6 @@ public:
 	std::string breadthFirstSearch(T from);
 };
 
-template<typename T>
-class Node {
-public:
-	T data;        // Data field
-	Node<T>* next; // Pointer to the next node
-
-	// Constructor
-	Node(T data, Node<T>* next = nullptr)
-		: data(data), next(next) {} // Initialize the data and next pointer
-};
-
 
 #endif
 
@@ -63,17 +64,16 @@ inline void Graph<T>::addVertex(T theNode)
 template<class T>
 inline void Graph<T>::addEdge(T from, T to, int weight)
 {
-	//add_edge() för att lägga till en båge mellan två noder. 
-	// Finns inte någon eller båda av noderna skall dessa skapas i add_edge().
+	// finns noderna i listan
 
-	//Does the nodes exist? Any missing needs to be created.
-	
-		//Check for keys "from" and "to" in the adjList
+	// ("A", "B", 3)
+	// ("A", "D", 3)
 
-		
+	std::vector<Edge<T>> &temp1 = this->adjList[from]; //checks and refs to it or creates if missing
+	temp1.push_back(Edge<T>(weight, to));
 
-	//else add this edge to the corresponding list entry in adjList
-	
+	std::vector <Edge<T>> &temp2 = this->adjList[to];
+	temp2.push_back(Edge<T>(weight, from));
 	
 	
 }
