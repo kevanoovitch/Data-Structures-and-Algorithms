@@ -1,0 +1,25 @@
+﻿  Labb C1.cpp
+C:\GitHub\Part C - Graphs\Labb C1\Labb C1\Graph.h(17,15): error C2065: 'Node': undeclared identifier
+  (compiling source file 'Labb%20C1.cpp')
+  C:\GitHub\Part C - Graphs\Labb C1\Labb C1\Graph.h(17,15):
+  the template instantiation context (the oldest one first) is
+  	C:\GitHub\Part C - Graphs\Labb C1\Labb C1\Graph.h(13,7):
+  	while compiling class template 'Graph'
+  
+C:\GitHub\Part C - Graphs\Labb C1\Labb C1\Graph.h(17,15): error C2059: syntax error: '>'
+  (compiling source file 'Labb%20C1.cpp')
+  
+C:\GitHub\Part C - Graphs\Labb C1\Labb C1\Graph.h(17,15): error C2955: 'Node': use of class template requires template argument list
+  (compiling source file 'Labb%20C1.cpp')
+  C:\GitHub\Part C - Graphs\Labb C1\Labb C1\Graph.h(39,7):
+  see declaration of 'Node'
+  C:\GitHub\Part C - Graphs\Labb C1\Labb C1\Graph.h(17,15):
+  the template instantiation context (the oldest one first) is
+  	C:\GitHub\Part C - Graphs\Labb C1\Labb C1\Labb C1.cpp(6,24):
+  	see reference to class template instantiation 'Graph<std::string>' being compiled
+  
+C:\GitHub\Part C - Graphs\Labb C1\Labb C1\Graph.h(17,7): error C2976: 'std::map': too few template arguments
+  (compiling source file 'Labb%20C1.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+  see declaration of 'std::map'
+  
