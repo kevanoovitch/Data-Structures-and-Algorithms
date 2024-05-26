@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5016302-6E08-4F1B-9657-A4AC253D21BF}|Examination C\\Examination C.vcxproj|C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift C\\Graph.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5016302-6E08-4F1B-9657-A4AC253D21BF}|Examination C\\Examination C.vcxproj|solutionrelative:Graph.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5016302-6E08-4F1B-9657-A4AC253D21BF}|Examination C\\Examination C.vcxproj|C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift C\\DisjointSets.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5016302-6E08-4F1B-9657-A4AC253D21BF}|Examination C\\Examination C.vcxproj|solutionrelative:DisjointSets.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisjointSets.hpp",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift C\\DisjointSets.hpp",
+              "RelativeDocumentMoniker": "DisjointSets.hpp",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift C\\DisjointSets.hpp",
+              "RelativeToolTip": "DisjointSets.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-14T10:30:58.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graph.hpp",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift C\\Graph.hpp",
+              "RelativeDocumentMoniker": "Graph.hpp",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift C\\Graph.hpp",
+              "RelativeToolTip": "Graph.hpp",
+              "ViewState": "AQIAALoAAAAAAAAAAAAIwIsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-14T09:36:04.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

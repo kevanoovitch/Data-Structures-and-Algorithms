@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69CB4D70-8978-432F-A3E0-570156AA9425}|Examination B.vcxproj|C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift B\\OrderedList.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69CB4D70-8978-432F-A3E0-570156AA9425}|Examination B.vcxproj|solutionrelative:OrderedList.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CB4D70-8978-432F-A3E0-570156AA9425}|Examination B.vcxproj|C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift B\\Tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69CB4D70-8978-432F-A3E0-570156AA9425}|Examination B.vcxproj|solutionrelative:Tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CB4D70-8978-432F-A3E0-570156AA9425}|Examination B.vcxproj|C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift B\\PriorityQueue.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69CB4D70-8978-432F-A3E0-570156AA9425}|Examination B.vcxproj|solutionrelative:PriorityQueue.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tests.cpp",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift B\\Tests.cpp",
+              "RelativeDocumentMoniker": "Tests.cpp",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift B\\Tests.cpp",
+              "RelativeToolTip": "Tests.cpp",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAHQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T11:51:24.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PriorityQueue.hpp",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift B\\PriorityQueue.hpp",
+              "RelativeDocumentMoniker": "PriorityQueue.hpp",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift B\\PriorityQueue.hpp",
+              "RelativeToolTip": "PriorityQueue.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T11:19:09.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderedList.hpp",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift B\\OrderedList.hpp",
+              "RelativeDocumentMoniker": "OrderedList.hpp",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\L\u00F6sning ex uppgift B\\OrderedList.hpp",
+              "RelativeToolTip": "OrderedList.hpp",
+              "ViewState": "AQIAACUAAAAAAAAAAAAswJ0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-24T14:09:30.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

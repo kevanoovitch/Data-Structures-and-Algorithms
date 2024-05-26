@@ -1,0 +1,14 @@
+﻿  MSTTest.cpp
+C:\Users\kevin\Downloads\Lösning ex uppgift C\Graph.hpp(201,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../MSTTest.cpp')
+  C:\Users\kevin\Downloads\Lösning ex uppgift C\Graph.hpp(201,39):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\kevin\Downloads\Lösning ex uppgift C\MSTTest.cpp(74,16):
+  	see reference to class template instantiation 'Graph<std::string>' being compiled
+  	C:\Users\kevin\Downloads\Lösning ex uppgift C\Graph.hpp(188,1):
+  	while compiling class template member function 'void Graph<std::string>::kruskals(std::vector<std::tuple<std::string,std::string,int>,std::allocator<std::tuple<std::string,std::string,int>>> &,int &)'
+  		C:\Users\kevin\Downloads\Lösning ex uppgift C\MSTTest.cpp(80,16):
+  		see the first reference to 'Graph<std::string>::kruskals' in 'testMST_KruskalsOnSmallGraph01'
+  
+  LINK : C:\Users\kevin\Downloads\Lösning ex uppgift C\x64\Debug\Examination C.exe not found or not built by the last incremental link; performing full link
+  Examination C.vcxproj -> C:\Users\kevin\Downloads\Lösning ex uppgift C\x64\Debug\Examination C.exe
